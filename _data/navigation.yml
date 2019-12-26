@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Naver Blog"
+    url: https://blog.naver.com/mhj5730
+  - title: "About"
+    url: /about/
+  - title: "Notion Profile"
+    url: https://www.notion.so/russell1970/Moon-s-Life-04921eee4f0d46c08f981f52f62eed1f
+  - title: "study"
+    url: https://www.notion.so/russell1970/Book-Gallery-228a6380ea074bc2b42d894321164d28
